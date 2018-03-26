@@ -204,6 +204,10 @@ small {
 .addCard-title {
     margin-bottom: 10px;
 	background:#C51162;
+	color: #fff;
+    padding-top:4vh;
+    margin-bottom: 1vh;
+    border:0px;
 }
 
 .addCard-desc{
@@ -213,6 +217,7 @@ small {
 
 .addCard-page {
     height: 100vh;
+	background: #fff;
 }
 
 .addCard-label-cardNickname,
