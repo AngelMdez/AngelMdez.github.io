@@ -5,11 +5,16 @@
 	background:#C51162;
 }
 
-.walletAccess-title {
+.walletAccess-title SPAN{
     color: #fff;
     padding-top:4vh;
     margin-bottom: 1vh;
     border:0px;
+}
+
+.walletAccess-title:after {
+    content: "Please create a 4 digit PIN to secure your wallet against unauthorized use.";
+	background : url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png), linear-gradient(0deg, #1e4b73, #eee);
 }
 
 .walletAccess-page {
