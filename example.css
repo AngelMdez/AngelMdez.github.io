@@ -42,7 +42,7 @@
 	display:block;
     content:"Enter 4 digit PIN to access wallet";
 	color:#fff;  
-	padding-top:10vh;
+	padding-top:12vh;
 	padding-bottom:2vh;    	
     border:0px;
 	background-image: url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png);
@@ -125,6 +125,14 @@ a.pin-pad-key {
 
 .pin-status {
     margin-top: 1vh;
+}
+
+
+/* Reset PIN Screen */
+.resetPIN-page,
+.resetPIN-title {
+    /*background: #18264b;*/
+	background:#C51162;
 }
 
 /* Secure Wallet Screen */
