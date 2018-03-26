@@ -15,6 +15,7 @@
 }
 
 .walletAccess-title:after {
+	height: 40vh;
     content: "Enter 4 digit PIN to verify access to your wallet";
 	color: #fff;
     padding-top:4vh;
