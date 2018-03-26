@@ -14,14 +14,15 @@
     border:0px;*/
 }
 
-.walletAccess-title:after {
-	height: 40vh;
-    content: "Enter 4 digit PIN to verify access to your wallet";
-	color: #fff;
-    padding-top:4vh;
-    margin-bottom: 1vh;
+.walletAccess-title:after {	
+	display:block;
+    content:"Enter 4 digit PIN to verify access to your wallet";
+	color:#fff;    
+    margin-bottom:1vh;
     border:0px;
-	background : url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png) no-repeat top 10px center;
+	background:url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png) no-repeat top 10px center;
+	height:65px;
+	padding-top:40%; 
 	/*background : url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png);*/
 }
 
