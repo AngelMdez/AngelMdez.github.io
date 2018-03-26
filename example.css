@@ -42,9 +42,8 @@
 	display:block;
     content:"Enter 4 digit PIN to access wallet";
 	color:#fff;  
-	padding-top:6vh;
-	padding-bottom:6vh;    
-	padding-right : 40%;
+	padding-top:8vh;
+	padding-bottom:4vh;    	
     border:0px;
 	background-image: url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png);
     background-repeat: no-repeat;
