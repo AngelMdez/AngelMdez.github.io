@@ -22,15 +22,25 @@
     border:0px;
 	background:url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png) no-repeat top 10px center;
 	height:50px;
-	padding-top:20%;*/
+	padding-top:20%;
+	
+	background:url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png) no-repeat top center;
+	
+	*/
 	
 	display:block;
-    content:"Enter 4 digit PIN to access your wallet";
+    content:"Enter 4 digit PIN to access wallet";
 	color:#fff;  
 	padding-top:4vh;
 	padding-bottom:4vh;    
     border:0px;
-	background:url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png) no-repeat top center;
+	background-image: url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top; 
+	
+	
+	
 	
 }
 
