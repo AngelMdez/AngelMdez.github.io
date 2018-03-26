@@ -27,8 +27,8 @@
 	display:block;
     content:"Enter 4 digit PIN to verify access to your wallet";
 	color:#fff;  
-	padding-top:5vh;
-	padding-bottom:5vh;    
+	padding-top:4vh;
+	padding-bottom:4vh;    
     border:0px;
 	background:url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png) no-repeat top center;
 	
@@ -48,7 +48,8 @@
 
 .pin-pad-keys,
 .pin-pad-footerLinks {
-    padding: 0 4%;
+    /*padding: 0 4%;*/
+	padding: 0 2%;
 }
 
 .pin-status-container,
@@ -80,7 +81,8 @@ a.pin-pad-key:active {
 }
 
 .pin-pad-keys {
-    margin-bottom: 2vh;
+    /*margin-bottom: 2vh;*/
+	margin-bottom: 1vh;
 }
 
 a.pin-pad-key {
