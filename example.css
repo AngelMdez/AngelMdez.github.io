@@ -204,10 +204,7 @@ small {
 .addCard-title {
     margin-bottom: 10px;
 	background:#C51162;
-	color: #fff;
-    padding-top:4vh;
-    margin-bottom: 1vh;
-    border:0px;
+	color: #fff;    
 }
 
 .addCard-desc{
@@ -220,10 +217,25 @@ small {
 	background: #fff;
 }
 
-.addCard-label-cardNickname,
+/*.addCard-label-cardNickname,
 .addCard-input-cardNickname {
   display: none;
+}*/
+
+.addCard-label-cardNickname{
+	color:#616161;	
 }
+.addCard-input-cardNickname{
+	color:#9E9E9E;	
+}
+
+.addCard-label-cardNumber{
+	color:#616161;	
+}
+.addCard-input-cardNumber{
+	color:#9E9E9E;	
+}
+
 
 .addCard-label-expYear {
     display:none;
@@ -231,10 +243,12 @@ small {
 
 .addCard-input-expMonth {
     width: 60%;
+	color:#9E9E9E;
 }
 
 .addCard-input-expYear {
     width: 35%;
+	color:#9E9E9E;
 }
 
 .wallet-image-empty {
