@@ -200,6 +200,21 @@ small {
     font-size: 10px;
 }
 
+/* Add Card Screen */
+.addCard-title {
+    margin-bottom: 10px;
+	background:#C51162;
+}
+
+.addCard-desc{
+    background: #fff;
+	
+}
+
+.addCard-page {
+    height: 100vh;
+}
+
 .addCard-label-cardNickname,
 .addCard-input-cardNickname {
   display: none;
@@ -225,15 +240,6 @@ small {
     padding-bottom: 8%;
 }
 
-.addCard-page,
-.addCard-title {
-    /*background: #18264b;*/
-	background:#C51162;
-}
-
-.addCard-title {
-    margin-bottom: 10px;
-}
 
 .modal-small .modal-action:before, .modal-small .modal-close:before {
     position: initial;
