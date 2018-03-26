@@ -1,7 +1,8 @@
 /* Access Wallet Screen */
 .walletAccess-page,
 .walletAccess-title {
-    background: #18264b;
+    /*background: #18264b;*/
+	background:#C51162;
 }
 
 .walletAccess-title {
