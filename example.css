@@ -225,6 +225,12 @@ small {
     padding-bottom: 8%;
 }
 
+.addCard-page,
+.addCard-title {
+    /*background: #18264b;*/
+	background:#C51162;
+}
+
 .addCard-title {
     margin-bottom: 10px;
 }
