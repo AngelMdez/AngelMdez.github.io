@@ -27,7 +27,8 @@
 	display:block;
     content:"Enter 4 digit PIN to verify access to your wallet";
 	color:#fff;  
-	padding-top:4vh;
+	padding-top:10vh;
+	padding-bottom:10vh;
     margin-bottom: 1vh;
     border:0px;
 	background:url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png) no-repeat top center;
