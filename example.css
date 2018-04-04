@@ -45,7 +45,7 @@
 	padding-top:12vh;
 	padding-bottom:2vh;    	
     border:0px;
-	background-image: url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png);
+	background-image: url(images/ic_wetech_pay_white.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center top;
@@ -142,7 +142,8 @@ a.pin-pad-key {
 
 .createWallet-page,
 .createWallet-title {
-    background: #18264b;
+    /*background: #18264b;*/
+	background:#C51162;
 }
 
 .createWallet-content,
@@ -290,9 +291,11 @@ small {
 .addCard-input-addressCity {    
 	color:#9E9E9E;
 }
-
+/*images/
+background: url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png)50%50%no-repeat;background-size: 20px20px;border: 0;top: 0;left: 0
+*/
 .backButton{
-	background: url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png)50%50%no-repeat;background-size: 20px20px;border: 0;top: 0;left: 0
+	background: url(images/ic_keyboard_arrow_left_white.png)50%50%no-repeat;background-size: 20px20px;border: 0;top: 0;left: 0
 }.backButtonSPAN{
 	font: 16px/15pxlato;color: #0d79bd;margin-left: 18px;display: none
 }.actionButton{
