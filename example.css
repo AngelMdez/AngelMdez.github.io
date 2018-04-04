@@ -252,8 +252,16 @@ small {
 }
 
 
-.addCard-label-expYear {
+/*.addCard-label-expYear {
     display:none;
+}*/
+
+.addCard-label-expYear {
+    color:#616161;	
+}
+
+.addCard-label-expMonth {
+    color:#616161;	
 }
 
 .addCard-input-expMonth {
@@ -267,19 +275,19 @@ small {
 }
 
 
-.addCard-label-street{
+.addCard-label-addressStreet{
 	color:#616161;	
 }
 
-.addCard-input-street {    
+.addCard-input-addressStreet {    
 	color:#9E9E9E;
 }
 
-.addCard-label-city{
+.addCard-label-addressCity{
 	color:#616161;	
 }
 
-.addCard-input-city {    
+.addCard-input-addressCity {    
 	color:#9E9E9E;
 }
 
