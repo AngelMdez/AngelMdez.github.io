@@ -252,13 +252,13 @@ small {
 }
 
 
-/*.addCard-label-expYear {
-    display:none;
-}*/
-
 .addCard-label-expYear {
-    color:#616161;	
+    display:none;
 }
+
+/*.addCard-label-expYear {
+    color:#616161;	
+}*/
 
 .addCard-label-expMonth {
     color:#616161;	
@@ -289,6 +289,14 @@ small {
 
 .addCard-input-addressCity {    
 	color:#9E9E9E;
+}
+
+.backButton{
+	background: url(https://chuwoman.github.io/WeFitPay/ic_wetech_pay_white.png)50%50%no-repeat;background-size: 20px20px;border: 0;top: 0;left: 0
+}.backButtonSPAN{
+	font: 16px/15pxlato;color: #0d79bd;margin-left: 18px;display: none
+}.actionButton{
+	width: 46px;height: 46px;position: absolute;padding: 0
 }
 
 .wallet-image-empty {
@@ -349,3 +357,5 @@ img[src*="privacy_icon.png"] {
 img[src*="privacy_icon.png"] + a {
     display:none;
 }
+
+
