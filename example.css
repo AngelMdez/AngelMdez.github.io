@@ -135,16 +135,42 @@ a.pin-pad-key {
 	background:#C51162;
 }
 
+
+
+.createWalletNotAllowed-title {
+    margin-bottom: 10px;
+	background:#C51162;
+	color: #fff;    
+}
+
+.createWalletNotAllowed-page {
+    height: 100vh;
+	background: #fff;
+}
+
 /* Secure Wallet Screen */
+
+
+.createWallet-title {
+    margin-bottom: 10px;
+	background:#C51162;
+	color: #fff;    
+}
+
 .createWallet-page {
+    height: 100vh;
+	background: #fff;
+}
+
+/*.createWallet-page {
     height: 100vh;
 }
 
 .createWallet-page,
 .createWallet-title {
-    /*background: #18264b;*/
+  
 	background:#C51162;
-}
+}*/
 
 .createWallet-content,
 .createWallet-title {
