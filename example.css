@@ -2,7 +2,9 @@
 .walletAccess-page,
 .walletAccess-title {
     /*background: #18264b;*/
-	background:#C51162;
+	background:#000000;
+	content: "WETECH";
+	color: #fffff;
 }
 
 .walletAccess-title SPAN{
@@ -41,14 +43,11 @@
 	
 	display:block;
     content:"Enter 4 digit PIN to access wallet";
-	color:#fff;  
+	color:#000000;  
 	padding-top:12vh;
 	padding-bottom:2vh;    	
     border:0px;
-	background-image: url(images/ic_wetech_pay_white.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center top;
+	background:#cceeff;
 	
 	
 	
